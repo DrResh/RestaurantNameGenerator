@@ -1,4 +1,5 @@
-# RestaurantNameGenerator
+# RestaurantNameGenerator 
+
 # LLM Based Name and Menu generator for Restaurant
 
 'RestaurantNameGenerator' folder contain the streamlit app that generates 
