@@ -10,3 +10,5 @@ Install necessary modules by running following command
 	pip install -r requirements.txt
 
 Generate your and ADD your openai key in ApiKey.py
+
+Launch the application using the following command: streamlit run RestaurantName.py 
