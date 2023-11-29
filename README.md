@@ -13,3 +13,5 @@ Using LangChain framemwork, llm and OpenAI API.
 2. Generate your and ADD your openai key in ApiKey.py
 
 3. Launch the application using the following command: streamlit run RestaurantName.py 
+
+![Alt text](RestaurantNameGenUI.png)
